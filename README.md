@@ -1,16 +1,29 @@
-### Hi there 👋
+### Oi, sou o Melch Raiol 👋
 
-<!--
-**melch-raiol/melch-raiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭Desenvolvedor de Software Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <a href="https://github.com/melch-raiol">
+  <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=melch-raiol&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Melch%20Roza%20%27s%20GitHub%20Stats"/>
+   <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melch-raiol&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+
+##
+
+<div>
+            <img  height="60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+             <img height="60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+
+##
+
+<div >
+<a href = "mailto:melchraiol@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/melch-raiol-202a0b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
