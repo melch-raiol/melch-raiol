@@ -21,9 +21,5 @@
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
-##
 
-<div >
-<a href = "mailto:melchraiol@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/melch-raiol-202a0b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
