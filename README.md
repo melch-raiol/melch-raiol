@@ -11,9 +11,7 @@
  
  ##
  
- <div>
-  [![Mech Raiol's git status](https://github-readme-stats.vercel.app/api/top-langs/?username=melch-raiol&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melch-raiol)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
