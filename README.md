@@ -8,6 +8,12 @@
   <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=melch-raiol&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Melch%20Roza%20%27s%20GitHub%20Stats"/>
   
 </div>
+ 
+ ##
+ 
+ <div>
+  [![Mech Raiol's git status](https://github-readme-stats.vercel.app/api/top-langs/?username=melch-raiol&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 ##
 
