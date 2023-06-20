@@ -1,7 +1,7 @@
-### Oi, sou o Melch Raiol 👋
+### Hi, I'm Melch Raiol 👋
 
 
-- 🔭Dev Full Stack
+- 🔭Full Stack Developer
 
 <div align-item=center>
  <a href="https://github.com/melch-raiol">
